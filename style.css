@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+h1{
+    font-size: 40px;
+}
+.restaurant-titel{
+    color: orange;
+}
+section{
+    display: flex;
+    margin: 30px;
+}
+.width{
+    width: 50%;
+    padding: 2%;
+}
+.width img{
+    width: 100%;
+
+}
+.link-batton {
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: orange;
+    background-image: linear-gradient(orange tomato);
+    color: white;
+    font-size: 15px;
+    border-radius: 6%;
+
+}
+.backgroud-color{
+    background-color: violet;
+    margin-bottom: 39px;
+
+}
+.restaurant-foot{
+    color: yellowgreen;
+    font-display: ;
